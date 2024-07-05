@@ -3,6 +3,7 @@ title: "Vamos falar sobre MVVM ?"
 datePublished: Fri Jul 05 2024 01:51:35 GMT+0000 (Coordinated Universal Time)
 cuid: cly81i0ma00020al78yom3zy9
 slug: vamos-falar-sobre-mvvm
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720144323795/4b48e550-896b-40bb-8507-8789fc21ed53.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720144202943/d2326178-f038-479f-92cc-faa417fade6d.png
 tags: android, mvvm
 
