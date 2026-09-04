@@ -50,10 +50,7 @@ E agora, quem poderá nos salvar ? ou melhor dizendo, quem poderá salvar os dad
 
 ![Chapolin Colorado](https://github.com/agathaappb/blog/blob/main/img/MVVM/ChapolinAstuciaGIF.gif?raw=truer)
 
-Brincadeiras a parte, podemos salvar os dados do viewmodel utitlizando o SavedStateHandle; com ele podemos salvar vários tipos de dados do viewmodel em um formato de chave valor e recuperá-los novamente depois. 
-
-### ✨Bonus do viewModel!!! 🎉✨
-O viewmodel tem uma flexibilidade que antes com o padrão MVP não existia, no MVP tínhamos a relação de 1 para 1, uma camada de View para uma de Presenter; mas no MVVM temos a relação de 1 para muitos, ou seja, podemos ter várias views relacionada com um ViewModel e isso traz alguns pontos bem interessantes a nível de projeto já que podemos reutilizar um método de um viewModel específico em várias views sem precisar ficar replicando aquele método em várias partes do projeto. 
+Brincadeiras a parte, podemos salvar os dados do viewmodel utitlizando o SavedStateHandle; com ele podemos salvar vários tipos de dados do viewmodel em um formato de chave valor e recuperá-los novamente depois.  
 
 
 # Projeto  🚀
